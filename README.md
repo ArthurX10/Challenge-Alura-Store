@@ -40,10 +40,10 @@ Analisamos se a experiência do cliente (custo de frete e avaliação) poderia j
 
 | Gráfico | Insight-Chave |
 | :---: | :--- |
-| ![Média de Avaliação](<img width="1400" height="1000" alt="Grafico2" src="https://github.com/user-attachments/assets/2b82f706-f61d-40e9-a0bc-22f5b986767a" />
-) | **Avaliação:** Todas as lojas possuem avaliações excelentes e muito similares (entre 3.98 e 4.05). A Loja 1, que mais fatura, tem a *pior* avaliação (3.98), enquanto a Loja 3 tem a *melhor* (4.05). |
-| ![Média de Frete](<img width="800" height="500" alt="Grafico5" src="https://github.com/user-attachments/assets/d0803aff-638c-42ff-88aa-d30cbdde2d65" />
-) | **Custo do Frete:** Há uma correlação inversa interessante. A **Loja 1** (maior faturamento) tem o frete mais caro (R$ 34.69). A **Loja 4** (menor faturamento) tem o frete mais barato (R$ 31.28). |
+| ![Média de Avaliação]<img width="1400" height="1000" alt="Grafico2" src="https://github.com/user-attachments/assets/2b82f706-f61d-40e9-a0bc-22f5b986767a" />
+ | **Avaliação:** Todas as lojas possuem avaliações excelentes e muito similares (entre 3.98 e 4.05). A Loja 1, que mais fatura, tem a *pior* avaliação (3.98), enquanto a Loja 3 tem a *melhor* (4.05). |
+| ![Média de Frete]<img width="800" height="500" alt="Grafico5" src="https://github.com/user-attachments/assets/d0803aff-638c-42ff-88aa-d30cbdde2d65" />
+ | **Custo do Frete:** Há uma correlação inversa interessante. A **Loja 1** (maior faturamento) tem o frete mais caro (R$ 34.69). A **Loja 4** (menor faturamento) tem o frete mais barato (R$ 31.28). |
 
 **Insight:** Um frete mais barato e uma boa avaliação (como na Loja 4) não estão se convertendo em maior faturamento. Inversamente, os clientes da Loja 1 estão dispostos a pagar um frete mais alto, indicando uma possível demanda mais forte ou um mix de produtos mais desejado.
 
