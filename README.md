@@ -104,9 +104,7 @@ Um frete mais barato e boas avaliações (como na Loja 4) **não garantem aument
 
 ---
 
-## 5. 👤 Autor
-
-**[João Arthur Rodrigues Pontes]**  
+**João Arthur Rodrigues Pontes**  
 Estudante de Ciência da Computação com foco em **análise de dados**.  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/joaoarthurrodrigues-pontes/)  
