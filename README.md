@@ -24,7 +24,7 @@ A análise foi dividida em várias métricas-chave para obter uma visão complet
 
 A métrica mais crítica para a saúde do negócio é o faturamento. A análise mostra uma clara disparidade entre as lojas.
 
-![Análise de Faturamento]<img width="1200" height="800" alt="Grafico1" src="https://github.com/user-attachments/assets/6a27f65a-7927-4bc8-9cea-cc08ac710faf" />
+! Análise de Faturamento <img width="1200" height="800" alt="Grafico1" src="https://github.com/user-attachments/assets/6a27f65a-7927-4bc8-9cea-cc08ac710faf" />
 
 
 * **Loja 1:** Lidera com **R$ 1.534.305,12** (26.1% do total).
@@ -40,9 +40,9 @@ Analisamos se a experiência do cliente (custo de frete e avaliação) poderia j
 
 | Gráfico | Insight-Chave |
 | :---: | :--- |
-| ![Média de Avaliação] <img width="1400" height="1000" alt="Grafico2" src="https://github.com/user-attachments/assets/2b82f706-f61d-40e9-a0bc-22f5b986767a" />
+| !Média de Avaliação <img width="1400" height="1000" alt="Grafico2" src="https://github.com/user-attachments/assets/2b82f706-f61d-40e9-a0bc-22f5b986767a" />
  | **Avaliação:** Todas as lojas possuem avaliações excelentes e muito similares (entre 3.98 e 4.05). A Loja 1, que mais fatura, tem a *pior* avaliação (3.98), enquanto a Loja 3 tem a *melhor* (4.05). |
-| ![Média de Frete] <img width="800" height="500" alt="Grafico5" src="https://github.com/user-attachments/assets/d0803aff-638c-42ff-88aa-d30cbdde2d65" />
+| !Média de Frete <img width="800" height="500" alt="Grafico5" src="https://github.com/user-attachments/assets/d0803aff-638c-42ff-88aa-d30cbdde2d65" />
  | **Custo do Frete:** Há uma correlação inversa interessante. A **Loja 1** (maior faturamento) tem o frete mais caro (R$ 34.69). A **Loja 4** (menor faturamento) tem o frete mais barato (R$ 31.28). |
 
 **Insight:** Um frete mais barato e uma boa avaliação (como na Loja 4) não estão se convertendo em maior faturamento. Inversamente, os clientes da Loja 1 estão dispostos a pagar um frete mais alto, indicando uma possível demanda mais forte ou um mix de produtos mais desejado.
@@ -51,13 +51,13 @@ Analisamos se a experiência do cliente (custo de frete e avaliação) poderia j
 
 Para entender a dinâmica das vendas, investigamos o volume por categoria e os produtos específicos mais e menos vendidos.
 
-![Vendas por Categoria] <img width="1400" height="1000" alt="Grafico2" src="https://github.com/user-attachments/assets/8736809b-8812-4e12-8332-6e75a3b54bea" />
+!Vendas por Categoria <img width="1400" height="1000" alt="Grafico2" src="https://github.com/user-attachments/assets/8736809b-8812-4e12-8332-6e75a3b54bea" />
 
 
 * **Vendas por Categoria:** As categorias "móveis" e "eletrônicos" são as mais fortes em *volume* de vendas em todas as lojas. A Loja D (Loja 4) tem um volume de vendas alto nessas categorias (480 em móveis, 451 em eletrônicos), comparável ao das outras lojas.
 * **Hipótese:** Se a Loja 4 vende um *volume* alto de produtos, mas tem o *faturamento* mais baixo, isso sugere fortemente que ela está vendendo produtos com **preço médio e margem de lucro mais baixos**.
 
-![Produtos Mais e Menos Vendidos] <img width="1200" height="800" alt="Grafico4" src="https://github.com/user-attachments/assets/33c954a4-3811-4819-9424-d043678359b3" />
+!Produtos Mais e Menos Vendidos <img width="1200" height="800" alt="Grafico4" src="https://github.com/user-attachments/assets/33c954a4-3811-4819-9424-d043678359b3" />
 
 
 * **Produtos Campeões:** A Loja 2 tem o produto mais vendido ("Iniciando em programação", 65 unidades). A Loja 3 tem o "produto campeão" mais fraco ("Kit banquetas", 57 unidades).
