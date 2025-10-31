@@ -39,7 +39,7 @@ Analisamos se a experiência do cliente (custo de frete e avaliação) poderia j
 
 | Gráfico | Insight-Chave |
 | :---: | :--- |
-| ![Média de Avaliação](GRAFICO3.png) | **Avaliação:** Todas as lojas possuem avaliações excelentes e muito similares (entre 3.98 e 4.05). A Loja 1, que mais fatura, tem a *pior* avaliação (3.98), enquanto a Loja 3 tem a *melhor* (4.05). |
+| ![Média de Avaliação](GRAFICOS/GRAFICO3.png) | **Avaliação:** Todas as lojas possuem avaliações excelentes e muito similares (entre 3.98 e 4.05). A Loja 1, que mais fatura, tem a *pior* avaliação (3.98), enquanto a Loja 3 tem a *melhor* (4.05). |
 | ![Média de Frete](1000169239.png) | **Custo do Frete:** Há uma correlação inversa interessante. A **Loja 1** (maior faturamento) tem o frete mais caro (R$ 34.69). A **Loja 4** (menor faturamento) tem o frete mais barato (R$ 31.28). |
 
 **Insight:** Um frete mais barato e uma boa avaliação (como na Loja 4) não estão se convertendo em maior faturamento. Inversamente, os clientes da Loja 1 estão dispostos a pagar um frete mais alto, indicando uma possível demanda mais forte ou um mix de produtos mais desejado.
