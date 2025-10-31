@@ -109,5 +109,5 @@ Um frete mais barato e boas avaliações (como na Loja 4) **não garantem aument
 **[Seu Nome Completo]**  
 Estudante de Ciência da Computação com foco em **análise de dados e visualização de informações**.  
 
-🔗 [LinkedIn](www.linkedin.com/in/joaoarthurrodrigues)  
+🔗 [LinkedIn](https://www.linkedin.com/in/joaoarthurrodrigues-pontes/)  
 💻 [GitHub](https://github.com/ArthurX10)
